@@ -18,7 +18,8 @@
         "mysql2": "latest"
     },
     "devDependencies": {
-        "sequelize": "6.6.2",
-        "eslint": "7.32.0"
+        "sequelize": "6.6.5",
+        "eslint": "7.32.0",
+        "express": "4.17.1"
     }
 }
