@@ -11,15 +11,15 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "sequelize": "6.6.5",
         "express": "4.17.1",
         "cors": "latest",
         "mysql": "latest",
-        "mysql2": "latest"
+        "mysql2": "latest",
+        "sequelize": "6.6.5"
     },
     "devDependencies": {
+        "express": "4.17.1",
         "sequelize": "6.6.5",
-        "eslint": "7.32.0",
-        "express": "4.17.1"
+        "eslint": "7.32.0"
     }
 }
